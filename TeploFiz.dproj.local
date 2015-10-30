@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\Users\Delphi\Documents\RAD Studio\Projects\Teplofiz\main.pas=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,C:\Users\Delphi\Documents\RAD Studio\Projects\Teplofiz\TeploFiz.dproj=C:\Users\Delphi\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\Users\Delphi\Documents\RAD Studio\Projects\Teplofiz\main.dfm=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Users\Delphi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
