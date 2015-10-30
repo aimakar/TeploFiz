@@ -117,7 +117,6 @@ begin
       MyExcel.WorkBooks.Open[path, 0, True];
       Flag:= false;
       Result:=true;
-      //comment
     end
   else
    if AutoRun then
